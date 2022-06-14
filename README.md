@@ -6,6 +6,12 @@
 <pre class="tab">
 Jovem aprendiz em desenvolvimento - Zup Innovation
 Aprendizagem Java com Spring focada em backend.
+Conhecimentos em POO
+Spring Core (Web, Security, Data JPA, Validations) 
+Maven
+Docker
+TDD
+MySQL
 </pre>
 <div> 
 
